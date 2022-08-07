@@ -1,1 +1,1 @@
-# crud-api-student-management-system
+# Project for Student Management System and use of CURD Operation
